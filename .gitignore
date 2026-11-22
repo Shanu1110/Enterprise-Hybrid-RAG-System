@@ -1,0 +1,16 @@
+# Python environment & cache
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE & Editor settings
+.vscode/
+.idea/
+
+# Environment variables & secrets
+.env
+
+# Local database data & logs
+postgres_data/
+*.log

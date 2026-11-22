@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+psycopg2-binary>=2.9.10
+pgvector
+langchain-core
+langchain-openai
+langchain-text-splitters
+rank-bm25==0.2.2
+pypdf
+pydantic-settings
+requests
+numpy
+python-multipart
